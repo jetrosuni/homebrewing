@@ -172,9 +172,3 @@
   - [ ] Kirjaa ylös kaikki loppuneet/vähiin käyneet tarvikkeet (puhdistusaineet ym.)
   - [ ] Kirjaa ylös mahdolliset esiin tulleet kummallisuudet, vinkit ja muu oleellinen
   - [ ] Päivitä panimon inventaario
-
-<style>
-li {
-  list-style-type: none;
-}
-</style>
