@@ -1,6 +1,6 @@
 # Homebrewing Checklist
 
-Welcome to the Homebrewing Checklist. The purpose of the instructions provided here is to help out aspriring and already existing homebrewers to brew a beer successfully using the Grainfather equipment. Instructions for other home brewing equipment may or may not be added later. The instrucions have been released under Creative Commons.
+Welcome to the Homebrewing Checklist. The purpose of the instructions provided here is to help out aspriring and already proficient homebrewers to brew a beer successfully using the Grainfather equipment. Instructions for other home brewing equipment may or may not be added later. The instrucions have been released under Creative Commons.
 
 The current set of instructions is Finnish-only.
 
